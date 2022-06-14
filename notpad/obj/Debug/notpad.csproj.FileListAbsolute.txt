@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\bin\Debug\notpad.exe.config
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\bin\Debug\notpad.exe
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\bin\Debug\notpad.pdb
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.exe
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.pdb
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.Form1.resources
+C:\Users\user\OneDrive\Documents\installer\notpad\notpad\obj\Debug\notpad.about.resources
